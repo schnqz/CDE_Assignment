@@ -1,4 +1,3 @@
-# CDE_Assignment
 ## CoreDataEngineers ETL & Posey Analysis Project
 
 ### 📌 Project Overview
