@@ -4,6 +4,7 @@
 As a new Data Engineer at CoreDataEngineers, I was tasked with setting up a simple ETL pipeline, creating automation scripts, and performing SQL-based competitor analysis. The infrastructure runs on Linux, and all scripts were written in Bash with PostgreSQL for database operations.
 
 The project includes:
+
 -A Bash ETL script to Extract, Transform, and Load data.
 
 -A Bash script to move JSON/CSV files into a dedicated directory.
